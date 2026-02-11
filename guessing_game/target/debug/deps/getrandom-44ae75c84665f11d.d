@@ -1,0 +1,12 @@
+/home/yujon/Projects/rust/guessing_game/target/debug/deps/getrandom-44ae75c84665f11d.d: /home/yujon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.17/src/lib.rs /home/yujon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.17/src/error.rs /home/yujon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.17/src/util.rs /home/yujon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.17/src/error_impls.rs /home/yujon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.17/src/util_libc.rs /home/yujon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.17/src/use_file.rs /home/yujon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.17/src/lazy.rs /home/yujon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.17/src/linux_android_with_fallback.rs
+
+/home/yujon/Projects/rust/guessing_game/target/debug/deps/libgetrandom-44ae75c84665f11d.rmeta: /home/yujon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.17/src/lib.rs /home/yujon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.17/src/error.rs /home/yujon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.17/src/util.rs /home/yujon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.17/src/error_impls.rs /home/yujon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.17/src/util_libc.rs /home/yujon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.17/src/use_file.rs /home/yujon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.17/src/lazy.rs /home/yujon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.17/src/linux_android_with_fallback.rs
+
+/home/yujon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.17/src/lib.rs:
+/home/yujon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.17/src/error.rs:
+/home/yujon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.17/src/util.rs:
+/home/yujon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.17/src/error_impls.rs:
+/home/yujon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.17/src/util_libc.rs:
+/home/yujon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.17/src/use_file.rs:
+/home/yujon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.17/src/lazy.rs:
+/home/yujon/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.17/src/linux_android_with_fallback.rs:
