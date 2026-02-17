@@ -5,8 +5,8 @@ use std::io;
 fn main() {
     println!("Enter a number:");
     let sec_num = rand::thread_rng().gen_range(1..=50);
-    let mut guess = String::new();
     loop {
+        let mut guess = String::new();
         io::stdin()
             .read_line(&mut guess)
             .expect("Failed to load number");
